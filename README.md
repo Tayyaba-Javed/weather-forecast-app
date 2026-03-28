@@ -1,17 +1,17 @@
-# 🌤️ Elite Weather Forecast App - Apple Style
+# 🌤️ Weather Forecast App - Apple Style
 
 A visually stunning, high-performance weather application inspired by Apple Weather. Built with **React 19**, **Vite**, **TypeScript**, and **Tailwind CSS v4**.
 
 ![Weather App Preview](public/preview.png)
 
-## ✨ Elite Features
+## ✨ Features
 -   **Interactive Data Visualization:** Premium 24-hour temperature trend charts using **Recharts**.
 -   **Environmental Health Monitoring:** Real-time Air Quality Index (AQI) tracking with detailed pollutant breakdowns.
 -   **International Unit Support:** Seamless toggle between Metric (€C) and Imperial (€F) units with local persistence.
 -   **Glassmorphism UI:** Sophisticated semi-transparent effects with `backdrop-blur` and dynamic borders.
 -   **PWA Ready:** Fully installable on mobile and desktop with offline support.
 -   **Architectural Excellence:** Clean separation of concerns with a dedicated Service Layer for API logic.
--   **Deep Blue Elite Theme:** Refined aesthetics for a high-impact first impression.
+-   **Deep Blue Theme:** Refined aesthetics for a high-impact first impression.
 -   **Context-Aware Insights:** Intelligent health and activity tips based on live weather metrics.
 -   **Smooth Animations:** Integrated with **Framer Motion** for premium entry transitions.
 
